@@ -1,0 +1,1 @@
+Drafts of a paper on Lophelia connectivity, using results from advecting larvae in the Polcoms 40-year AMM model run. Results analysed using network theory to determine how the network functions and thereby discuss the possible implications for conservation in the area. 
